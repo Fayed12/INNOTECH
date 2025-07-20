@@ -1,4 +1,4 @@
-# INNOTECH
+# INNOTECH Summer training
 
 - [@Mohamed afyed](https://github.com/Fayed12)
 

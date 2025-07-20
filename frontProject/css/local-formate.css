@@ -1,0 +1,53 @@
+/*start font style */
+@font-face {
+    font-family: 'ItalicWinkySans';
+    src: url(../assets/fonts/WinkySans-Italic-VariableFont_wght.ttf) format('truetype');
+    font-style: normal;
+    font-weight: 100 900;
+}
+@font-face {
+    font-family: 'NormalWinkySans';
+    src: url(../assets/fonts/WinkySans-VariableFont_wght.ttf) format('truetype');
+    font-style: italic;
+    font-weight: 100 900;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url(../assets/fonts/Lato-Regular.ttf) format('truetype');
+    font-style: italic;
+    font-weight: 100 900;
+}
+/*end font style */
+/* start list and link formates */
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+/* end list and link formates */
+/* start position and main display formates */
+.p-relative{
+    position: relative;
+}
+.p-absolute{
+    position: absolute;
+}
+.d-block{
+    display: block;
+}
+/* end position and main display formates */
+/* start flex formates */
+.d-flex{
+    display: flex;
+}
+.f-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.g-30{
+    gap:30px;
+}
+
+/* end flex formates */
